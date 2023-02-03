@@ -1,2 +1,2 @@
-# instagram-laravel
-Projeto do Instagram em Laravel do Free Code Camp.
+# laravel-projeto-padrao
+Projeto do Padrão em Laravel com Laravel New Project.
